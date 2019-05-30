@@ -37,5 +37,15 @@ namespace Proves
             Assert.AreEqual(2, resultat);
 
         }
+
+        [TestMethod]
+        public void Divisors()
+        {
+            String resultat;
+            ClFuncions llb = new ClFuncions();
+            resultat = llb.Divisors(50);
+            Assert.AreEqual("1,2,5,10,25,50", resultat);
+
+        }
     }
 }
