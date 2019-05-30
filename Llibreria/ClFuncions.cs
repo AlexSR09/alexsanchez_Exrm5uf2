@@ -30,9 +30,15 @@ namespace Llibreria
 
         }
 
-        public Int32 EsMesGran(int v1, int v2)
+        public Int32 EsMesGran(Int32 v1, Int32 v2)
         {
             if (v1 > v2) return v1;
+            else return v2;
+        }
+
+        public Int32 EsMesPetit(Int32 v1, Int32 v2)
+        {
+            if (v1 < v2) return v1;
             else return v2;
         }
 

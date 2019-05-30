@@ -23,8 +23,18 @@ namespace Proves
         {
             Int32 resultat = 0;
             ClFuncions llb = new ClFuncions();
-            resultat = llb.EsMesGran(5,5);
+            resultat = llb.EsMesGran(5,10);
             Assert.AreEqual(10, resultat);
+
+        }
+
+        [TestMethod]
+        public void EsMesPetit()
+        {
+            Int32 resultat = 0;
+            ClFuncions llb = new ClFuncions();
+            resultat = llb.EsMesPetit(5, 2);
+            Assert.AreEqual(2, resultat);
 
         }
     }
