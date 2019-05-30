@@ -23,7 +23,7 @@ namespace Proves
         {
             Int32 resultat = 0;
             ClFuncions llb = new ClFuncions();
-            resultat = llb.EsMesGran(5,5);
+            resultat = llb.EsMesGran(10,5);
             Assert.AreEqual(10, resultat);
 
         }
