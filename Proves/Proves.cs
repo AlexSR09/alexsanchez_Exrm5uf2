@@ -17,5 +17,15 @@ namespace Proves
             Assert.AreEqual( true, resultat);
 
         }
+
+        [TestMethod]
+        public void EsMesGran()
+        {
+            int resultat = 0;
+            ClFuncions llb = new ClFuncions();
+            resultat = llb.EsMesGran(10,5);
+            Assert.AreEqual(10, resultat);
+
+        }
     }
 }
