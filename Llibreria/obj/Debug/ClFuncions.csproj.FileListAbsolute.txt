@@ -4,3 +4,9 @@ D:\DAM2\M5\UF2\ClFuncions\Llibreria\obj\Debug\ClFuncions.csprojAssemblyReference
 D:\DAM2\M5\UF2\ClFuncions\Llibreria\obj\Debug\ClFuncions.csproj.CoreCompileInputs.cache
 D:\DAM2\M5\UF2\ClFuncions\Llibreria\obj\Debug\Llibreria.dll
 D:\DAM2\M5\UF2\ClFuncions\Llibreria\obj\Debug\Llibreria.pdb
+D:\DAM2\M5\UF2\alexsanchez_Exrm5uf2-versio-2\Llibreria\bin\Debug\Llibreria.dll
+D:\DAM2\M5\UF2\alexsanchez_Exrm5uf2-versio-2\Llibreria\bin\Debug\Llibreria.pdb
+D:\DAM2\M5\UF2\alexsanchez_Exrm5uf2-versio-2\Llibreria\obj\Debug\ClFuncions.csprojAssemblyReference.cache
+D:\DAM2\M5\UF2\alexsanchez_Exrm5uf2-versio-2\Llibreria\obj\Debug\ClFuncions.csproj.CoreCompileInputs.cache
+D:\DAM2\M5\UF2\alexsanchez_Exrm5uf2-versio-2\Llibreria\obj\Debug\Llibreria.dll
+D:\DAM2\M5\UF2\alexsanchez_Exrm5uf2-versio-2\Llibreria\obj\Debug\Llibreria.pdb
