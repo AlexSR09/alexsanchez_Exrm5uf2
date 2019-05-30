@@ -8,11 +8,11 @@ namespace Llibreria
 {
     public class ClFuncions
     {
-        public bool EsPrimer(int v1)
+        public bool EsPrimer(Int32 v1)
         {
 
-            int i = 2;
-            int resto = 0;
+            Int32 i = 2;
+            Int32 resto = 0;
             while (i < v1)
             {
                 resto = v1 % i;
